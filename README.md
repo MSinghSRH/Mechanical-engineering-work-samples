@@ -8,7 +8,7 @@ This repository presents a collection of mechanical design projects created duri
 
 **Project Types:** Parts and Assemblies  
 **Software Used:** Autodesk Inventor  
-**Project Scope** Technical Drawing Interpretation, Solid Modeling, Assembly Design
+**Project Scope:** Technical Drawing Interpretation, Solid Modeling, Assembly Design
 
 These projects include individual parts and assemblies modeled using Autodesk Inventor. All designs were constructed based on provided technical drawings with emphasis to dimensional accuracy and modeling constraints.
 
@@ -20,7 +20,7 @@ These projects include individual parts and assemblies modeled using Autodesk In
 
 **Project Types:** Modeled Components with Simulation  
 **Software Used:** CATIA (for modeling and simulation)  
-**Project Scope** CAD Modeling, Finite Element Analysis, Mechanical Behavior Simulation
+**Project Scope:** CAD Modeling, Finite Element Analysis, Mechanical Behavior Simulation
 
 This section features parts modeled in CATIA and subsequently analyzed for mechanical stress, deformation, and performance under realistic conditions. These projects demonstrate results of mechanical analysis and simulation workflows.
 
